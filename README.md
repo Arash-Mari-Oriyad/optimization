@@ -1,2 +1,2 @@
 # optimization
-Some awesome simple machine learning projects :)
+Some awesome simple optimization projects :)
